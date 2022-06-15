@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaExercicio_DoctorsCount.iml" filepath="$PROJECT_DIR$/.idea/JavaExercicio_DoctorsCount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doctors_count/doctors_count.iml" filepath="$PROJECT_DIR$/doctors_count/doctors_count.iml" />
+    </modules>
+  </component>
+</project>
